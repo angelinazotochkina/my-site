@@ -210,7 +210,7 @@ color:  #333;
 .footer {position:  fixed;
 	top: 95%;
 	font-size: 15px;
-	background-color: #04052d;
+	background-color:  black /*#04052d*/;
 }
 
 .footer_style {
