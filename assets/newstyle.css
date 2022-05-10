@@ -212,6 +212,14 @@ color:  #333;
 	font-size: 15px;
 	background-color:  black /*#04052d*/;
 }
+.footer_index {position:  fixed;
+	top: 95%;
+	font-size: 15px;
+	    background-color: #0018a8;
+    background: rgba(0, 24, 168, 0.48);
+	
+}
+
 
 .footer_style {
 	font-size: 18px;
